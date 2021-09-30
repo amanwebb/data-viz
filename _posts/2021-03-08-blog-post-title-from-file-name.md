@@ -6,7 +6,9 @@ Here, you will learn about what data visualization is, how to create amazing cha
 
 ---
 
-### This is a header
+### So what the heck is data visualization?!?
+
+Data visualization is extremely critical to a data scientist's job. Essentially, it is a way to make your analyses clearer and easier to understand. It is very beneficial for non-statisticians, for it helps them see what you see in the data. As the old adage states: A picture is worth a thousand words. A person with little to no knowledge in statistics or data analysis will not necessarily be able to understand your code, tests, or analyses; however, they might be able to understand a picture or a chart. Data visualization is important to be able to present your final results in a clear, concise, and compelling manner to your often non-technical audience. 
 
 #### Some T-SQL Code
 
