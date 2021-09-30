@@ -1,10 +1,8 @@
-## Blog Post Title From First Header
+## How to be a Data Viz Rockstar
 
-Due to a plugin called `jekyll-titles-from-headings` which is supported by GitHub Pages by default. The above header (in the markdown file) will be automatically used as the pages title.
+So you want to be a data visualiztion rockstar? Well, you came to the right place! Here you will find out everyting you need to knwo about how to be a pro. 
 
-If the file does not start with a header, then the post title will be derived from the filename.
-
-This is a sample blog post. You can talk about all sorts of fun things here.
+Here, you will learn about what data visualization is, how to create amazing charts and graphs, and what the best practices are. Essentially, you will learn everytnig you need to know to impress your boss and get a raise (don't quote me on that...)
 
 ---
 
